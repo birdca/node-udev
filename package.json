@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cheery/node-udev"
+    "url": "https://github.com/AMI-NTBU/node-udev"
   },
   "engines": {
     "node": ">=0.8.0"
